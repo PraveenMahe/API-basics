@@ -78,5 +78,8 @@ public class ApiImplementLiSeMa {
 		}
 
 	}
+private void sysout() {
+System.out.println("Dummy1");
 
+}
 }
