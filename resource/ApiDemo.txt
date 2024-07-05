@@ -1,0 +1,3 @@
+Praveen,Praveen@101,10000
+Naveen,Naveen@102,20000
+Raveen,Raveen@103,30000
