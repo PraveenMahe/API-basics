@@ -80,6 +80,11 @@ public class ApiImplementLiSeMa {
 	}
 private void sysout() {
 System.out.println("Dummy1");
+}
+
+private void sysout1() {
+    System.out.println("Dummy");
+	}
 
 }
-}
+
